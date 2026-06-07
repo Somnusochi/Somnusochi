@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <a href="mailto:somnusochi@gmail.com"><img src="https://img.shields.io/badge/Open_to_Work-🤝-brightgreen?style=for-the-badge" /></a>
-</p>
 
 <p align="center">
   <i>With simple hearts, do what you love.</i>
